@@ -1,6 +1,8 @@
 # Facebook Unsponsored
 Block Facebook news feed "sponsored" posts
 
+Fork from: https://greasyfork.org/en/scripts/22210-facebook-unsponsored
+
 ## Overview
 This script will delete any items in your Facebook news feed that are "sponsored" or "suggested" (meaning an advertisement). It will continue to weed out these posts as you scroll, removing them before they appear.
 
