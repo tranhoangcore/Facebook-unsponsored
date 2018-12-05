@@ -1,10 +1,10 @@
-#Facebook Unsponsored
+# Facebook Unsponsored
 Block Facebook news feed "sponsored" posts
 
-##Overview
+## Overview
 This script will delete any items in your Facebook news feed that are "sponsored" or "suggested" (meaning an advertisement). It will continue to weed out these posts as you scroll, removing them before they appear.
 
-###Posts this script removes:
+### Posts this script removes:
 
 A Video You May Like
 Popular Across Facebook
@@ -17,7 +17,7 @@ Chrome
 Firefox
 Safari
 
-####Languages
+#### Languages
 Supported localization codes (ISO 639-1):
 af, am, ar, as, ay, az, be, bg, bn, br, bs, ca, cb, co, cs, cx, cy, da, de, el, en, eo, es, et, fa, fi, fo, fr, fy, ga, gl, gn, gx, hi, hu, id, it, ja, jv, kk, km, ko, lo, mk, ml, mn, mr, ms, ne, nl, or, pa, pl, ps, pt, ru, sa, si, so, sv, te, th, tl, tr, tz, uk, ur, vi, zh-Hans, zh-Hant
 
